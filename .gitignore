@@ -1,0 +1,22 @@
+/chat-test/.DS_Store
+/chat-test/dist
+
+
+# local env files
+/chat-test/.env.local
+/chat-test/.env.*.local
+
+# Log files
+/chat-test/npm-debug.log*
+/chat-test/yarn-debug.log*
+/chat-test/yarn-error.log*
+/chat-test/pnpm-debug.log*
+
+# Editor directories and files
+/chat-test/.idea
+.vscode
+/chat-test/*.suo
+/chat-test/*.ntvs*
+/chat-test/*.njsproj
+/chat-test/*.sln
+/chat-test/*.sw?
